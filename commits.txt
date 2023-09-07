@@ -1,0 +1,98 @@
+commit c0920c756e8322def1523b69d537dd93b63a4447
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Wed Jul 26 15:35:43 2023 -0300
+
+    Agregando 2 párrafos
+
+commit 6f5c3f44100ec1e7baaf283a70f30348327a1bbe
+Merge: 30e4e9f ee6023a
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Wed Jul 26 15:32:54 2023 -0300
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 30e4e9f6760d42c409a1086bf8999fa300088a49
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Wed Jul 26 15:11:15 2023 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit ee6023aacc9d9dc0d5f2325e93f1f84c7d9cc821
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Wed Jul 26 15:11:15 2023 -0300
+
+    Agregando las esaciones del año
+
+commit 48e6ebee55d7c203ca8a3b481262787c8bedcff2
+Merge: 2791cec b36cbbf
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Wed Jul 26 15:03:58 2023 -0300
+
+    Resolviento conflicto merge main/html en el documento index.html
+
+commit b36cbbff5a0561774cd9e6e40257b90eb2c7404b
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Wed Jul 26 14:50:53 2023 -0300
+
+    Agregando index.js al index.html
+
+commit 2791cec38e152a22e3fcdfd55874d2dbbab03400
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Wed Jul 26 14:47:04 2023 -0300
+
+    Agregando style.css al index.html
+
+commit 5b28cd922f15590cd7d06cacd20311e5f21e12bb
+Merge: bc7e7f2 45b37b8
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Fri Jul 14 23:38:07 2023 -0300
+
+    Merge branch 'js'
+
+commit 45b37b83317aa6a28bb67c51a818c48ab7689223
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Fri Jul 14 23:32:22 2023 -0300
+
+    Creando index.js
+
+commit bc7e7f2787d9863dcc8619222ed4a517114d5b93
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Fri Jul 14 23:27:02 2023 -0300
+
+    Creando style.css
+
+commit a305ab3e5e75fab8e0b3309d06dc2a8dfde9b04c
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Fri Jul 14 23:22:45 2023 -0300
+
+    Creando index.html
+
+commit ad1caab368c7d1d3d59e2fbdb579c484afb952d8
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Fri Jul 14 15:31:29 2023 -0300
+
+    Ignorando archivos .exe
+
+commit 8fd4d5bc3b5bd44d8c7a1beeccbd6949693efaac
+Author: eduitElias <65623964+eduitElias@users.noreply.github.com>
+Date:   Fri Jul 14 00:27:35 2023 -0300
+
+    Creando licencia del repositorio
+
+commit 94251c0b7a34551e1020770fafe8844160ada966
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Thu Jul 13 23:41:25 2023 -0300
+
+    Agregando más contenido al README
+
+commit ef2a64cd2701b8ae04f3bcc9b49e320903b38a25
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Thu Jul 13 17:04:57 2023 -0300
+
+    Agregando contenido inicial al README
+
+commit 8da7594274f2c9bf4ed6321f96b811e88124277d
+Author: Daniel Elias <pablodanielelias4@gmail.com>
+Date:   Thu Jul 13 16:51:04 2023 -0300
+
+    Primer commit👨
